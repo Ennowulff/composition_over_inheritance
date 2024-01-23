@@ -22,10 +22,7 @@ the solutions might stand the following changes:
 the methods concerning the documents should be encapsuled in a separate class that manages the table access and actions. But this would make the example even more complex.
 
 
-
 # example
-
-== DRAFT ==
 
 The following assumptions are made to define an example that is on one hand simple enough to understand and on the other hand complex enough to show the advantages and disadvantages of a proposed solution.
 
@@ -44,6 +41,11 @@ the following actions can be executed to an area object
 * display display all information needed to this area
 
 * Factory method to create an instance for each area
+
+# report for testing
+
+PROG ZCOI01_AREA_DEMO01: Enter area code and execute.
+The report will create an instance of the desired area class, add some documents, call the display method and list all documents.
 
 # general actions
 
