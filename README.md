@@ -79,7 +79,7 @@ get_documents: only documents having status finished
 
 Display: additional display of number of documents status 
 * released
-* finished
+* open
 
 ## area B
 Name Brythoria
