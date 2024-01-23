@@ -106,7 +106,7 @@ Name Draconia
 
 Assigned countries: IT, GR
 
-Responsible person: Bernard
+Responsible person: Dania
 
 Display: additionally list all documents 
 
