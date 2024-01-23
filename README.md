@@ -75,7 +75,7 @@ assigned countries: DE, CH, AT
 
 Responsible person: Aaron
 
-get_documents: only documents having status finished
+get_documents: only documents having status released
 
 Display: additional display of number of documents status 
 * released
