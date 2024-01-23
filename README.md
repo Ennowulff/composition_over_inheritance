@@ -5,12 +5,23 @@ https://keremkoseoglu.wordpress.com/2024/01/08/suggestions-for-better-object-ori
 
 Chapter "Avoid inheritance"
 
-# Target
+# goal
+Build a realistic example that has nothing to with animals or flight data
 
 show and discuss solutions with these paterns:
 * inheritance
 * composition
 * servant
+
+## further changes
+the solutions might stand the following changes:
+* new method get_revenue_by_country
+* 
+
+# know inadequacies
+the methods concerning the documents should be encapsuled in a separate class that manages the table access and actions. But this would make the example even more complex.
+
+
 
 # example
 
