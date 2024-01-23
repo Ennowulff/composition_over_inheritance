@@ -70,30 +70,44 @@ display:
 
 ## area A
 Name Avaloria
+
 assigned countries: DE, CH, AT
+
 Responsible person: Aaron
+
 get_documents: only documents having status finished
+
 Display: additional display of number of documents status 
 * released
 * finished
 
 ## area B
 Name Brythoria
+
 Assigned countries: ES, PT, FR
+
 delete_document not allowed in FR due to legal reasons
+
 Responsible person: Bernard
+
 Display: Display telephone number of responsible person
 
 ## area C
 Name Celestria
+
 Assigned countries: PL, RO
+
 Responsible person: Carolina 
+
 add_documents: force status draft. only allowed if there are no other documents with status draft
 
 ## area D
 Name Draconia
+
 Assigned countries: IT, GR
+
 Responsible person: Bernard
+
 Display: additionally list all documents 
 
 # organization
