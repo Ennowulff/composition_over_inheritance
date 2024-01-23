@@ -9,7 +9,7 @@ Chapter "Avoid inheritance"
 Build a realistic example that has nothing to with animals or flight data
 
 show and discuss solutions with these paterns:
-* inheritance
+* inheritance [01](https://github.com/Ennowulff/composition_over_inheritance/tree/main/src/coi_01)
 * composition
 * servant
 
