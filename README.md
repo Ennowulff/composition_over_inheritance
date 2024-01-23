@@ -108,7 +108,9 @@ Assigned countries: IT, GR
 
 Responsible person: Dania
 
-Display: additionally list all documents 
+Documents: has always two templates in status released:
+* template for technician
+* template for customer
 
 # organization
 
