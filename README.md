@@ -129,8 +129,3 @@ document
   * released
   * draft
 
-## tables
-
-documents
-* area (key)
-* structure: document
